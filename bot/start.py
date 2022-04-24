@@ -53,10 +53,10 @@ async def start(_, m: Message):
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/trtechguide"),
                     InlineKeyboardButton(
-                        "📣 Channel", url="https://t.me/SLBotsOfficial")
+                        "📣 Channel", url="https://t.me/Gishankrishka1_cloud")
                 ], [
                     InlineKeyboardButton(
-                        "👩🏻‍💻 Developer", url="https://t.me/TharukRenuja")
+                        "👩🏻‍💻 Developer", url="https://t.me/Gishankrishka1")
                 ], [
                     InlineKeyboardButton(
                         "📚 All Command List", callback_data="cblist")
@@ -93,7 +93,7 @@ async def alive(_, m: Message):
                         "✨ Group", url=f"https://t.me/trtechguide"
                     ),
                     InlineKeyboardButton(
-                        "📣 Channel", url=f"https://t.me/SLBotsOfficial"
+                        "📣 Channel", url=f"https://t.me/Sgishankrishka1_cloud"
                     )
                 ]
             ]
